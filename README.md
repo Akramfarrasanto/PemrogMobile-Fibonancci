@@ -1,1 +1,4 @@
-# PemrogMobile-Fibonancci
+# Deret Fibonacci
+
+tampilannya
+![foto](Fibonacci/tampil.png)
