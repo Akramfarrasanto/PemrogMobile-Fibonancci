@@ -1,4 +1,5 @@
 # Deret Fibonacci
 
-tampilannya
+## Tampilannya
+
 ![foto](Fibonacci/tampil.png)
